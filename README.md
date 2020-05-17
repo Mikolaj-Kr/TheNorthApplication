@@ -12,7 +12,7 @@
 >The main feature of the application is ability to check availability and prices of sensitive products. User can find his specific store or check all the stores in his neighbourhood. User can also share actual information about these dates. 
 ## Features
 ### Home page
-![Guest view](./src/main/resources/static/img/homePage.png) 
+![Guest view](./app/src/main/resources/static/img/homePage.png) 
 >  Home page where the user has a choice to find his specific store, check availability of sensitive products in his neighbourhood or share actual information about store.
 
 ### Availability in specific store
